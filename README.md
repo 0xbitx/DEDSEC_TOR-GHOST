@@ -35,6 +35,46 @@ DEDSEC Tor-Ghost, a CLI based tool engineered for individuals prioritizing their
     * chmod +x dedsec_torghost
     * sudo ./dedsec_torghost
 
+## How to Install FoxyProxy Browser Extension
+
+Follow these steps to install FoxyProxy on your browser:
+
+    Open Your Browser:
+    Start by launching your preferred web browser.
+
+    Navigate to Extensions:
+        Click on the menu icon (three vertical dots) at the top-right corner of your browser window.
+        Select "Extensions" from the dropdown menu.
+
+    Search for FoxyProxy:
+        In the Extensions page, find the search bar (usually at the top-right corner).
+        Type "FoxyProxy" and press Enter.
+        Click on "Add" or "Install" next to the official FoxyProxy extension.
+
+    Install FoxyProxy:
+        Follow the prompts to complete the installation. It should only take a moment.
+
+    Access FoxyProxy Settings:
+        Once installed, locate the FoxyProxy icon in your browser's toolbar (near the address bar).
+        Click on the FoxyProxy icon to open its menu.
+
+    Configure Proxies:
+        Select "Proxies" from the FoxyProxy menu.
+        Click on "Add"
+
+    Add Proxy Details:
+        Enter the following details for your proxy configuration:
+            Title: DEDSEC
+            Type: SOCKS4
+            Hostname: 127.0.0.1
+            Port: 9050
+
+        Click "Save" or "OK" to save your new proxy configuration.
+
+    Activate FoxyProxy:
+        To use the proxy, click on the FoxyProxy icon again in your browser's toolbar.
+        Select the proxy configuration you created ("DEDSEC") from the dropdown menu.
+        
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
