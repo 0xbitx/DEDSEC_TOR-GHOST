@@ -15,7 +15,7 @@ DEDSEC Tor-Ghost, a CLI based tool engineered for individuals prioritizing their
 
 <h3 align="center"> TOOL BANNER </h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_STARSYNC/assets/74537225/3e202727-b798-4e93-bbb1-ddac196700ad", width="900", height="900">
+<img src="https://github.com/0xbitx/DEDSEC_TOR-GHOST/assets/74537225/a2c64e5e-b6b0-4975-8085-8f19d6cec0de", width="900", height="900">
 </p>
 
 ## Key Features
