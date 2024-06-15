@@ -25,7 +25,7 @@ DEDSEC Tor-Ghost, a CLI based tool engineered for individuals prioritizing their
 | 1. Rapid Relay Switching | Automatically changes Tor relays every 5 seconds to ensure your connection remains anonymous and secure. |
 | 2. Enhanced Privacy |  By frequently shifting relays, Tor-Ghost makes it significantly harder for anyone to track your online activities. |
 | 2.  User-Friendly Interface | Simple and intuitive controls allow you to manage your privacy with ease. |
-| 2. Seamless Integration |Works smoothly with the Tor network, ensuring reliable and consistent performance. |
+| 2. Seamless Integration | Works smoothly with the Tor network without tor browser, ensuring reliable and consistent performance. |
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_TOR-GHOST.git
